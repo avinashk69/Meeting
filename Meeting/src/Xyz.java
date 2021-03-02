@@ -7,11 +7,9 @@ public class Xyz {
 		System.out.println("Anshul loves (PUBG)");
 		hello i am trupti singh rathore from kolhapur
 			hello ......this is arun kishore gupta from varanasi...
-		// TODO Auto-generated method stub
+				hello this is anshul from mars
 			
 			not locked
-			
-			i am the only boss here yeah baby i am the boss
 			
 			yeahhhhh.....file is not locked
 			
